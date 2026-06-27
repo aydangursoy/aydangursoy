@@ -54,7 +54,7 @@ B2B SaaS landing page project focusing on ICP research, value proposition, compe
 **Marketing & Brand Communication Specialist** — Reve Interiors
 *Sep 2025 – Apr 2026 · Project-Based · Istanbul*
 
-**Digital Marketing Intern** — Dizem Yapı
+**Marketing & Design Intern** — Dizem Yapı
 *Jun 2022 – Sep 2022 · Istanbul*
 
 ---
