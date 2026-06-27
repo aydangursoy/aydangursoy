@@ -45,7 +45,7 @@ Mock campaign case study for a skincare brand targeting Gen Z consumers in Turke
 
 B2B SaaS landing page project focusing on ICP research, value proposition, competitor analysis, conversion-focused messaging and content-led acquisition.
 
-→ [View Repository](https://github.com/aydangursoy/rixeo)
+→ [View Live Page](https://aydangursoy.github.io/rixeo)
 
 ---
 
